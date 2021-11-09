@@ -65,29 +65,5 @@ if __name__ == "__main__":
     print("Spiller: 1", len(spiller_1_poeng))
     print("Spiller 2:", len(spiller_2_poeng))               
                 
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
+
     
